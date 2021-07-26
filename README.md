@@ -11,6 +11,7 @@ joking aside, this project aim to give a better view when sailing in the "opense
  - [ ] alert on new Collection
  - [ ] alert on new offer
  - [ ] alert on new transaction
+ - [ ] time based alert (somewhere before bid end, drop start, etc)
  - [ ] discord integraton
  - [ ] line integration
  - [ ] GUI
