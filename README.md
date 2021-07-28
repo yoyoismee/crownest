@@ -7,11 +7,17 @@ joking aside, this project aim to give a better view when sailing in the "opense
  - [ ] watch collection
  - [ ] watch wallet
  - [ ] watch NFTs
- - [ ] alert on new NFT
- - [ ] alert on new Collection
- - [ ] alert on new offer
- - [ ] alert on new transaction
- - [ ] time based alert (somewhere before bid end, drop start, etc)
- - [ ] discord integraton
+ - [ ] notify on new NFT
+ - [ ] notify on new Collection
+ - [ ] notify on new offer
+ - [ ] notify on new transaction
+ - [ ] time based notify (somewhere before bid end, drop start, etc)
+ - [ ] personal timetable
+ - [ ] discord integration
  - [ ] line integration
  - [ ] GUI
+ - [ ] google calendar integration
+
+### TODO
+ - [ ] Buy Sell Bid
+ - [ ] Foundation integration
