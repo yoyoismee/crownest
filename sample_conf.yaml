@@ -1,0 +1,18 @@
+setting:
+  line_token: "testlinetoken" # line notify token
+  discord_hook: "somediscordhook" # discord webhook
+  notify_new_collection: true # notify if tracked wallet interact with new collection (create, buy)
+  notify_new_NFT : true # notify if tracked collection have new NFTs
+  notify_new_offer: true # notify if NFTs in tracked collection have new list, offer, auction
+  notify_new_transaction: true # notify if NFTs in tracked collection have new bid, transfer, etc
+  notify_early_alert: true # notify before sell start, bid end, etc
+track:
+  collection:
+    - "collection-name" # collection name
+    - "another-collection-name" # can add more
+  wallet:
+    - "0x6647a7858a0b3846abd5511e7b797fc0a0c63a4b" #my wallet feel free to donate lol
+    - "0xsomeaddresshere" #just add someone you wanna follow
+  nfts:
+    - "95804568256879353996820554894859257532338101370766076105153708727262179464349" # just my ENS yoyoismee.eth
+    - "can also add more"
